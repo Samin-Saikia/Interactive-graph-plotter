@@ -42,7 +42,7 @@ To see the Interactive Graph Plotter in action:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/interactive-graph-plotter.git
+   git clone https://github.com/Samin-Saikia/interactive-graph-plotter.git
    cd interactive-graph-plotter
    ```
 2. Install the required packages:
